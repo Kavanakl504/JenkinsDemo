@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 621641700,
+              "duration": 412762200,
               "status": "passed"
             },
             "line": 3,
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-24T09:00:41.197Z",
+        "start_timestamp": "2020-03-24T09:11:56.668Z",
         "line": 5,
         "name": "Get employee record",
         "description": "",
@@ -40,7 +40,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1929889900,
+              "duration": 2276688200,
               "status": "passed"
             },
             "line": 6,
@@ -78,7 +78,7 @@
           },
           {
             "result": {
-              "duration": 6995900,
+              "duration": 1999500,
               "status": "passed"
             },
             "line": 10,
@@ -105,7 +105,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3001700,
+              "duration": 1998100,
               "status": "passed"
             },
             "line": 3,
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-24T09:00:43.839Z",
+        "start_timestamp": "2020-03-24T09:11:59.423Z",
         "line": 13,
         "name": "Create record",
         "description": "",
@@ -134,7 +134,7 @@
         "steps": [
           {
             "result": {
-              "duration": 791543200,
+              "duration": 2006876300,
               "status": "passed"
             },
             "line": 14,
@@ -166,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 4998400,
+              "duration": 3023000,
               "status": "passed"
             },
             "line": 17,
@@ -193,7 +193,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4998100,
+              "duration": 2996900,
               "status": "passed"
             },
             "line": 3,
@@ -212,7 +212,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-24T09:00:44.666Z",
+        "start_timestamp": "2020-03-24T09:12:01.457Z",
         "line": 19,
         "name": "update the created user",
         "description": "",
@@ -222,7 +222,7 @@
         "steps": [
           {
             "result": {
-              "duration": 820528700,
+              "duration": 925472600,
               "status": "passed"
             },
             "line": 20,
@@ -254,7 +254,7 @@
           },
           {
             "result": {
-              "duration": 3997800,
+              "duration": 3998300,
               "status": "passed"
             },
             "line": 23,
@@ -281,7 +281,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1998600,
+              "duration": 2998600,
               "status": "passed"
             },
             "line": 3,
@@ -300,7 +300,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-03-24T09:00:45.516Z",
+        "start_timestamp": "2020-03-24T09:12:02.427Z",
         "line": 25,
         "name": "Delete all the data",
         "description": "",
@@ -310,7 +310,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1998100,
+              "duration": 1998500,
               "status": "passed"
             },
             "line": 26,
@@ -328,7 +328,7 @@
           },
           {
             "result": {
-              "duration": 1035402400,
+              "duration": 871526800,
               "status": "passed"
             },
             "line": 27,
@@ -348,7 +348,7 @@
           },
           {
             "result": {
-              "duration": 999900,
+              "duration": 2998300,
               "status": "passed"
             },
             "line": 29,
