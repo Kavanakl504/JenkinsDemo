@@ -10,10 +10,12 @@ import java.io.File;
 
 
 import io.cucumber.junit.Cucumber;
-import io.cucumber.junit.CucumberOptions;
+
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
 import io.restassured.internal.support.FileReader;
 
-@RunWith(Cucumber.class)
+//@RunWith(Cucumber.class)
 
 @CucumberOptions(
 		features= {"resources/features"},
@@ -22,12 +24,8 @@ import io.restassured.internal.support.FileReader;
 		monochrome=true
 		
 		)
-public class APITestRunner {
+public class APITestRunner extends AbstractTestNGCucumberTests {
 	
-	@AfterClass
-	public static void writeReport()
-	{
-		
-	}
+	
 
 }

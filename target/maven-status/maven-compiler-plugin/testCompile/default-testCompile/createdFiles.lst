@@ -3,6 +3,7 @@ crud\PostPutDelete.class
 properties\getReportConfigPath.class
 crud\BDDStyleethod.class
 runnerFile\APITestRunner.class
+managers\FileReaderManager.class
 properties\Fileread.class
 properties\PropertiesHelperTest$1.class
 properties\PropertiesHelperTest$LazyHolder.class
